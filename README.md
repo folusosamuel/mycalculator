@@ -4,6 +4,8 @@ This app is a built using React, Javascript, Css and HTML.
 
 # Live demo link
 
+https://calculator-qpvp.onrender.com/
+
 # Screenshot of the Project
 
 ![first view](myCalculator_img.png),
